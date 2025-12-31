@@ -1,0 +1,25 @@
+{
+  "name": "Shopping Yako",
+  "short_name": "ShopeYako",
+  "description": "The best shopping experience from AI Mashinani.",
+  "start_url": "/Shopping-Yako/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "orientation": "portrait",
+  "scope": "/Shopping-Yako/",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/shemcola/Shopping-Yako/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/shemcola/Shopping-Yako/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
