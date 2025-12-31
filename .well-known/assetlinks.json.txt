@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.shemcola.shoppingyako",
+    "sha256_cert_fingerprints": ["ED:2A:7B:84:81:80:4A:DC:E1:D2:73:09:DF:8C:21:76:8C:92:78:D1:04:12:BB:73:9B:03:51:A0:A4:9A:17:12"]
+  }
+}]

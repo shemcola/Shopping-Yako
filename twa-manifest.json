@@ -1,0 +1,58 @@
+{
+  "packageId": "com.shemcola.shoppingyako",
+  "host": "shemcola.github.io",
+  "name": "Shope-Yako",
+  "launcherName": "Shope-yako",
+  "display": "standalone",
+  "themeColor": "#2196F3",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": true,
+  "startUrl": "/Shopping-Yako/",
+  "iconUrl": "https://raw.githubusercontent.com/shemcola/Shopping-Yako/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+  "maskableIconUrl": "https://raw.githubusercontent.com/shemcola/Shopping-Yako/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:\\Users\\lenovo\\Downloads\\shope-yako\\android.keystore",
+    "alias": "shemkeyshopeyako"
+  },
+  "appVersionName": "2",
+  "appVersionCode": 2,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://raw.githubusercontent.com/shemcola/Shopping-Yako/main/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {
+    "playBilling": {
+      "enabled": true
+    },
+    "locationDelegation": {
+      "enabled": true
+    }
+  },
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://shemcola.github.io/Shopping-Yako/",
+  "minSdkVersion": 21,
+  "orientation": "portrait",
+  "fingerprints": [
+    {
+      "sha256Fingerprint": "ED:2A:7B:84:81:80:4A:DC:E1:D2:73:09:DF:8C:21:76:8C:92:78:D1:04:12:BB:73:9B:03:51:A0:A4:9A:17:12"
+    }
+  ],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "displayOverride": [],
+  "appVersion": "2"
+}
